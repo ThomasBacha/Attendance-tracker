@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE (e.g., PyCharm) configuration
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extensions
+*.pyd
+
+# Setuptools distribution folder
+/dist/
+
+# Python egg metadata
+*.egg-info/
+
+# Sphinx documentation
+docs/_build/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env
+venv
+env.bak
+venv.bak
+
+# VS Code settings
+.vscode/
